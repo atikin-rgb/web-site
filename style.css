@@ -68,3 +68,14 @@ main{
 .space{
     width: 30px;
 }
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e7e7e7;
+    color:rgb(127, 195, 255);
+    min-height: 50px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
